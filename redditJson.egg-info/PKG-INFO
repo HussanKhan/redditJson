@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: redditJson
+Version: 0.0.1
+Summary: uses the reddit api to gather user generated     posts for a specific subreddit. After scraping, the content is      stored in a json file.
+Home-page: https://github.com/HussanKhan/redditJson
+Author: Hussan Khan
+Author-email: <hussankhanwork@gmail.com>
+License: MIT
+Keywords: reddit,json,scrape
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+uses the reddit api to gather user generated
+    posts for a specific subreddit. After scraping, the content is 
+    stored in a json file.
+
