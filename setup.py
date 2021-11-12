@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.11'
 DESCRIPTION = """uses the reddit api to gather user generated
     posts for a specific subreddit. After scraping, the content is 
     stored in a json file."""
@@ -17,7 +17,7 @@ setup(
     packages=find_packages(),
     license="MIT",
     url="https://github.com/HussanKhan/redditJson",
-    install_requires=[],
+    install_requires=['requests'],
     keywords=['reddit', 'json', 'scrape'],
     classifiers=[
         "Intended Audience :: Developers",

@@ -1,8 +1,10 @@
+LICENSE
+README.md
 setup.py
-RedditJson/__init__.py
-RedditJson/example.py
-RedditJson/redditJson.py
+redditJson/__init__.py
+redditJson/example.py
 redditJson.egg-info/PKG-INFO
 redditJson.egg-info/SOURCES.txt
 redditJson.egg-info/dependency_links.txt
+redditJson.egg-info/requires.txt
 redditJson.egg-info/top_level.txt
